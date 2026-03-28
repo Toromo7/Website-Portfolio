@@ -1,16 +1,17 @@
-# My Portfolio Website
+# 👨‍💻 Tony Omokhoje | Frontend Developer & ICT Instructor
 
-A modern and responsive portfolio website built using HTML, CSS, and JavaScript to showcase my projects, skills, and web development journey.
+I build responsive web applications and teach technical hardware maintenance. I am passionate about clean code, open-source contributions, and the Stellar ecosystem.
 
-# 🚀 Features
-- Responsive design
-- Multi-page layout
-- Clean and structured UI
+## 🌍 Live Project
+**Check out my live portfolio here:** [https://toromo7.github.io/Website-Portfolio/](https://toromo7.github.io/Website-Portfolio/)
 
-# 🛠️ Technologies Used
-- HTML
-- CSS
-- JavaScript
+## 🛠 Skills & Tools
+- **Frontend:** React, JavaScript, HTML5, CSS3 (Flexbox/Grid), Tailwind CSS
+- **Hardware:** Motherboard Diagnostics, GSM Repairs, Multimeter usage
+- **Education:** Curriculum Design for ICT (Secondary School level)
 
-# 📌 Author
-TONY ROLAND
+## 📈 Recent Activity
+- ✅ Refactored project architecture for better scalability.
+- 🚀 Deployed automated portfolio via GitHub Pages.
+- 🧩 Actively contributing to Frontend UI tasks in Open Source.
+-
